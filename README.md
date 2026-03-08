@@ -29,21 +29,14 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elmoutoukmohamedyassir\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
 
 ---
 
-## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=elmoutoukmohamedyassir\&theme=tokyonight)
 
 ---
 
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmoutoukmohamedyassir\&layout=compact\&theme=tokyonight)
 
 ---
 
