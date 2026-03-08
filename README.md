@@ -1,8 +1,16 @@
 # 👋 Hello, I'm Mohamed Yassir
 
+<p align="center">
 💻 Passionate Developer from Morocco
+</p>
+
+<p align="center">
 🚀 Web Developer focused on backend systems, Laravel applications, and modern web technologies
+</p>
+
+<p align="center">
 🧠 Interested in Cybersecurity, Automation, and SaaS Development
+</p>
 
 ---
 
