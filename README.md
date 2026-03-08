@@ -23,12 +23,6 @@
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=elmoutoukmohamedyassir\&color=blue)
-
----
-
 
 
 ---
@@ -38,33 +32,19 @@
 ---
 
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=elmoutoukmohamedyassir\&theme=tokyonight\&margin-w=10\&margin-h=10)
 
 ---
+
+
+---
+
+
 
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=elmoutoukmohamedyassir\&theme=tokyo-night)
 
----
 
-## 🔥 Featured Projects
-
-### Datacenter Management System
-
-Role-based management platform for servers, resources, and monitoring built with Laravel.
-
-### Machine Learning Prediction App
-
-Python-based project applying machine learning models for prediction and data analysis.
-
-### Modern SaaS Landing Page
-
-Responsive landing page built with HTML, CSS, and JavaScript to showcase frontend skills.
 
 ---
 
