@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Mohamed Yassir
 
 💻 Passionate Developer from Morocco
-🚀 Interested in Web Development, Backend Systems, and Security
-📚 Currently improving my skills in Laravel, Python and modern web technologies
+🚀 Web Developer focused on backend systems, Laravel applications, and modern web technologies
+🧠 Interested in Cybersecurity, Automation, and SaaS Development
 
 ---
 
@@ -16,20 +16,26 @@
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **Web Applications & SaaS Projects**
-* 🌱 Learning more about **Cybersecurity and Backend Architecture**
-* 💡 Interested in **Automation, APIs, and System Design**
-* ⚡ I enjoy building useful tools and experimenting with new technologies
+* 🔭 Currently building **web applications and SaaS projects**
+* 🌱 Improving my skills in **Laravel, Python, and backend architecture**
+* ⚡ Interested in **cybersecurity, automation, and system design**
+* 💡 I enjoy building useful tools and experimenting with new technologies
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=elmoutoukmohamedyassir\&color=blue)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Yassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmoutoukmohamedyassir\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elmoutoukmohamedyassir\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=elmoutoukmohamedyassir\&theme=tokyonight)
 
@@ -41,14 +47,44 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=elmoutoukmohamedyassir\&theme=tokyonight\&margin-w=10\&margin-h=10)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=elmoutoukmohamedyassir\&theme=tokyo-night)
+
+---
+
+## 🔥 Featured Projects
+
+### Datacenter Management System
+
+Role-based management platform for servers, resources, and monitoring built with Laravel.
+
+### Machine Learning Prediction App
+
+Python-based project applying machine learning models for prediction and data analysis.
+
+### Modern SaaS Landing Page
+
+Responsive landing page built with HTML, CSS, and JavaScript to showcase frontend skills.
+
+---
+
 ## 🌍 Connect With Me
 
 <p align="center">
 
 
+
 <a href="https://instagram.com/ysrmtk">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
+
 
 
 </p>
