@@ -1,16 +1,16 @@
 # 👋 Hello, I'm Mohamed Yassir
 
 <p align="center">
-💻 Passionate Developer from Morocco
+
+  Hi, I’m Yassir 👋 — a Data Analysis student from Tangier 🇲🇦 who loves turning ideas into real projects 🚀
+I build with Python 🐍, FastAPI ⚡, and AI 🤖, exploring everything from ML to SaaS tools.
+Currently diving into MLOps 🔧 and multi-agent systems while documenting the journey 📈
+Always learning, always building… and chasing that next big idea 💡🔥
+
+ 
 </p>
 
-<p align="center">
-🚀 Web Developer focused on backend systems, Laravel applications, and modern web technologies
-</p>
 
-<p align="center">
-🧠 Interested in Cybersecurity, Automation, and SaaS Development
-</p>
 
 ---
 
