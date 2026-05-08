@@ -76,6 +76,4 @@ Always learning, always building… and chasing that next big idea 💡🔥
 ⭐ From [elmoutoukmohamedyassir](https://github.com/elmoutoukmohamedyassir)
 
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/elmoutoukmohamedyassir/elmoutoukmohamedyassir/blob/output/github-contribution-grid-snake.svg)
