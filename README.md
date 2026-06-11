@@ -4,8 +4,8 @@
 
   Hi, I’m Yassir 👋 — a Data Analysis student from Tangier 🇲🇦 who loves turning ideas into real projects 🚀
 I build with Python 🐍, FastAPI ⚡, and AI 🤖, exploring everything from ML to SaaS tools.
-Currently diving into MLOps 🔧 and multi-agent systems while documenting the journey 📈
-Always learning, always building… and chasing that next big idea 💡🔥
+Currently diving into MLOps, data engineering and multi-agent systems while documenting the journey 📈
+Always learning, always building… and chasing that next big idea 💡
 
  
 </p>
