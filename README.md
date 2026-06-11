@@ -24,9 +24,8 @@ Always learning, always building… and chasing that next big idea 💡
 
 ## 🚀 About Me
 
-* 🔭 Currently building **web applications and SaaS projects**
-* 🌱 Improving my skills in **Laravel, Python, and backend architecture**
-* ⚡ Interested in **cybersecurity, automation, and system design**
+* 🌱 Improving my skills in **Python,data engineering and backend architecture**
+* ⚡ Interested in **cybersecurity, data engineering, and system design**
 * 💡 I enjoy building useful tools and experimenting with new technologies
 
 ---
