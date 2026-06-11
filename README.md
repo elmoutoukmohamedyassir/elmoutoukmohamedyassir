@@ -17,7 +17,7 @@ Always learning, always building… and chasing that next big idea 💡🔥
 ## 🧠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,vercel,figma,php,laravel,js,mysql,html,css,c,git,linux,vscode,django,flask,react,typescript,fastapi,docker,github" />
+<img src="https://skillicons.dev/icons?i=python,vercel,php,laravel,js,mysql,html,css,c,git,linux,vscode,django,flask,react,typescript,fastapi,docker,github,postgresql" />
 </p>
 
 ---
