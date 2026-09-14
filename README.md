@@ -2,10 +2,14 @@
 
 <p align="center">
 
-  Hi, I’m Yassir 👋 — a Data Analysis student from Tangier 🇲🇦 who loves turning ideas into real projects 🚀
-I build with Python 🐍, FastAPI ⚡, and AI 🤖, exploring everything from ML to SaaS tools.
-Currently diving into MLOps, data engineering and multi-agent systems while documenting the journey 📈
-Always learning, always building… and chasing that next big idea 💡
+  Hi, I’m Yassir  — a Data Engineering-focused developer from Tangier 🇲🇦 who enjoys turning raw data into reliable pipelines, structured datasets, and actionable insights 
+
+I work with Python , SQL, PostgreSQL, Airflow , Docker , and PySpark , building ETL pipelines, Data Warehouses, Data Lakes, and analytics workflows.
+
+Currently expanding my skills in scalable data systems, cloud technologies, and production-ready Data Engineering practices 
+
+Always learning, always building.
+
 
  
 </p>
@@ -14,7 +18,7 @@ Always learning, always building… and chasing that next big idea 💡
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,vercel,php,laravel,js,mysql,html,css,c,git,linux,vscode,django,flask,react,fastapi,docker,github,postgresql,aws,gcp" />
@@ -22,14 +26,12 @@ Always learning, always building… and chasing that next big idea 💡
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🌱 Improving my skills in **Python,data engineering and backend architecture**
-* ⚡ Interested in **cybersecurity, data engineering, and system design**
-* 💡 I enjoy building useful tools and experimenting with new technologies
-
----
-
+*  Improving my skills in **Python, SQL, Data Engineering, and backend architecture**
+*  Building **ETL pipelines, Data Warehouses, Data Lakes, and data-driven applications**
+*  Interested in **Data Engineering, distributed systems, and scalable architectures**
+*  I enjoy turning raw data into **reliable pipelines and useful insights**
 
 
 ---
@@ -43,11 +45,15 @@ Always learning, always building… and chasing that next big idea 💡
 ---
 
 
+
+---
+
+
 ---
 
 
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=elmoutoukmohamedyassir\&theme=tokyo-night)
 
@@ -55,7 +61,7 @@ Always learning, always building… and chasing that next big idea 💡
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
